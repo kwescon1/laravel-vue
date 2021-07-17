@@ -10,9 +10,11 @@
 
 <script>
 import BodyComponent from './BodyComponent.vue'
+
 export default {
     components: {
-        BodyComponent,
+        BodyComponent
+        
     }
 }
 </script>
